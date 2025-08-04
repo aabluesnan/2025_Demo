@@ -7,9 +7,9 @@ params:
   content:
     ButtonCaption: Contact 765-588-7410
     ButtonURL: https://newbound.ai/
-    LeadDescription: We are an inovative AI/LLM Startup dedicated to advancing the 
-      boundaries of technology.
-    LeadTitle: An AI Startup with cutting-edge AI solutions
+    LeadDescription: We build AI-native tools that make student learning smarter
+    and teaching more effective.
+    LeadTitle: Reimagining University Learning with AI
   dateFormat: Jan 2, 2023
   feature:
     - FeatureDescription: Pioneering intelligent systems for connected vehicles,
