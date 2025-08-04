@@ -1,14 +1,13 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Newbound AI – AI-Powered Learning Assistant for Universities
+title: "Newbound AI – AI-Powered Learning Assistant for Universities"
 theme: agnes-hugo-theme
 params:
   authorName: Los angeles, Ann Arbor, Newbound AI
   content:
     ButtonCaption: Contact 765-588-7410
     ButtonURL: https://newbound.ai/
-    LeadDescription: We build AI-native tools that make student learning smarter
-    and teaching more effective.
+    LeadDescription: "We build AI-native tools that make student learning smarter and teaching more effective.""
     LeadTitle: Reimagining University Learning with AI
   dateFormat: Jan 2, 2023
   feature:
