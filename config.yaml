@@ -29,32 +29,7 @@ params:
       FeatureImage: images/feature-4.png
 
   google_analytics_id: GA-
-  service:
-    - ButtonCaption: Get Early Access
-      ButtonURL: https://newbound.ai/
-      Features:
-        - Description: "Providing expert guidance"
-        - Description: "Tailored strategies"
-        - Description: "Leverage AI technologies effectively"
-        - Description: "Achieve their business goals."
-      PricingRate: '40'
-      PricingTitle: Consulting
-    - ButtonCaption: Get Earlier Access
-      ButtonURL: https://newbound.ai/
-      Features:
-        - Description: "Developing and validating innovative solutions"
-        - Description: "Demonstrate the feasibility"
-        - Description: "Value of AI applications before full-scale implementation"
-      PricingRate: '50'
-      PricingTitle: Proof of Concept
-    - ButtonCaption: Get Earliest Access
-      ButtonURL: https://newbound.ai/
-      Features:
-        - Description: "Designing, building, and deploying advanced AI systems and applications"
-        - Description: "From concept to completion"
-        - Description: "Meet the unique needs of our clients."
-      PricingRate: '60'
-      PricingTitle: Development
+  
   social:
     FacebookURL: https://facebook.com/
     GoogleURL: http://google.com
