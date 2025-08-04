@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Agnes Site
+title: Newbound AI – AI-Powered Learning Assistant for Universities
 theme: agnes-hugo-theme
 params:
   authorName: Los angeles, Ann Arbor, Newbound AI
