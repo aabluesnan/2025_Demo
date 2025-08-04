@@ -7,53 +7,49 @@ params:
   content:
     ButtonCaption: Contact 765-588-7410
     ButtonURL: https://newbound.ai/
-    LeadDescription: "We build AI-native tools that make student learning smarter and teaching more effective.""
+    LeadDescription: "We build AI-native tools that make student learning smarter and teaching more effective."
     LeadTitle: Reimagining University Learning with AI
   dateFormat: Jan 2, 2023
+  
   feature:
-    - FeatureDescription: Pioneering intelligent systems for connected vehicles,
-        enabling seamless data integration and enhanced driving experiences.
+    - FeatureDescription: "Pioneering intelligent systems for connected vehicles, enabling seamless data integration and enhanced driving experiences."
       FeatureImage: images/feature-1.png
       FeatureTitle: Connected Vehicle Data Devices
-    - FeatureDescription: Creating intuitive and user-friendly voice-enabled 
-        devices to enrich everyday life through smart, hands-free interactions.
+    - FeatureDescription: "Creating intuitive and user-friendly voice-enabled devices to enrich everyday life through smart, hands-free interactions."
       FeatureImage: images/feature-2.png
       FeatureTitle: Smart Speakers and Voice Assistants
-    - FeatureDescription: Leveraging advanced AI algorithms to deliver highly 
-        accurate voice and image recognition applications, transforming 
-        industries and user experiences..
+    - FeatureDescription: "Leveraging advanced AI algorithms to deliver highly accurate voice and image recognition applications, transforming industries and user experiences."
       FeatureImage: images/feature-3.png
       FeatureTitle: Artificial Intelligence in Voice and Image Recognition
-    - FeatureDescription: Innovating the use of AI-driven large language models 
-        to streamline and enhance the patent drafting process, improving 
-        efficiency and precision for inventors and businesses.
+    - FeatureDescription: "Innovating the use of AI-driven large language models to streamline and enhance the patent drafting process, improving efficiency and precision for inventors and businesses."
       FeatureImage: images/feature-4.png
       FeatureTitle: Large Language Models for Patent Writing
+
   google_analytics_id: GA-
   service:
     - ButtonCaption: Get Early Access
       ButtonURL: https://newbound.ai/
       Features:
-        - Description: Providing expert guidance
-        - Description: Tailored strategies
-        - Description: Leverage AI technologies effectively
-        - Description: Achieve their business goals.
+        - "Providing expert guidance"
+        - "Tailored strategies"
+        - "Leverage AI technologies effectively"
+        - "Achieve their business goals."
       PricingRate: '40'
       PricingTitle: Consulting
     - ButtonCaption: Get Earlier Access
       ButtonURL: https://newbound.ai/
       Features:
-        - Description: Developing and validating innovative solutions
-        - Description: Demonstrate the feasibility
-        - Description: Value of AI applications before full-scale implementation
+        - "Developing and validating innovative solutions"
+        - "Demonstrate the feasibility"
+        - "Value of AI applications before full-scale implementation"
       PricingRate: '50'
       PricingTitle: Proof of Concept
     - ButtonCaption: Get Earliest Access
       ButtonURL: https://newbound.ai/
       Features:
-        - Description: Designing, building, and deploying advanced AI systems and applications
-        - Description: From concept to completion
-        - Description: Meet the unique needs of our clients.
+        - "Designing, building, and deploying advanced AI systems and applications"
+        - "From concept to completion"
+        - "Meet the unique needs of our clients."
       PricingRate: '60'
       PricingTitle: Development
   social:
