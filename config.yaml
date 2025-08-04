@@ -5,25 +5,28 @@ theme: agnes-hugo-theme
 params:
   authorName: Los angeles, Ann Arbor, Newbound AI
   content:
-    ButtonCaption: Contact 765-588-7410
+    ButtonCaption: "Request a Demo"
+    ButtonSubCaption: "Contact: info@newbound.ai"
     ButtonURL: https://newbound.ai/
     LeadDescription: "We build AI-native tools that make student learning smarter and teaching more effective."
     LeadTitle: Reimagining University Learning with AI
   dateFormat: Jan 2, 2023
-  
+
+  FeatureSectionTitle: What We Do
+
   feature:
-    - FeatureDescription: "Pioneering intelligent systems for connected vehicles, enabling seamless data integration and enhanced driving experiences."
+    - FeatureTitle: Smart Learning Assistant
+      FeatureDescription: Instantly helps students find answers from course videos and PDFs to improve learning efficiency.
       FeatureImage: images/feature-1.png
-      FeatureTitle: Connected Vehicle Data Devices
-    - FeatureDescription: "Creating intuitive and user-friendly voice-enabled devices to enrich everyday life through smart, hands-free interactions."
+    - FeatureTitle: Instructor Dashboard
+      FeatureDescription: Gives instructors real-time insights into student engagement and learning bottlenecks for better teaching strategies.
       FeatureImage: images/feature-2.png
-      FeatureTitle: Smart Speakers and Voice Assistants
-    - FeatureDescription: "Leveraging advanced AI algorithms to deliver highly accurate voice and image recognition applications, transforming industries and user experiences."
+    - FeatureTitle: Canvas LMS Integration
+      FeatureDescription: Fully integrated with the Canvas Learning Management System and compliant with the LTI 1.3 standard.
       FeatureImage: images/feature-3.png
-      FeatureTitle: Artificial Intelligence in Voice and Image Recognition
-    - FeatureDescription: "Innovating the use of AI-driven large language models to streamline and enhance the patent drafting process, improving efficiency and precision for inventors and businesses."
+    - FeatureTitle: Cortex Search + LLM
+      FeatureDescription: Combines Snowflake, Cortex Search, and large language models to deliver a powerful search experience.
       FeatureImage: images/feature-4.png
-      FeatureTitle: Large Language Models for Patent Writing
 
   google_analytics_id: GA-
   service:
