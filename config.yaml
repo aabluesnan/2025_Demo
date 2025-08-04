@@ -30,26 +30,26 @@ params:
     - ButtonCaption: Get Early Access
       ButtonURL: https://newbound.ai/
       Features:
-        - "Providing expert guidance"
-        - "Tailored strategies"
-        - "Leverage AI technologies effectively"
-        - "Achieve their business goals."
+        - Description: "Providing expert guidance"
+        - Description: "Tailored strategies"
+        - Description: "Leverage AI technologies effectively"
+        - Description: "Achieve their business goals."
       PricingRate: '40'
       PricingTitle: Consulting
     - ButtonCaption: Get Earlier Access
       ButtonURL: https://newbound.ai/
       Features:
-        - "Developing and validating innovative solutions"
-        - "Demonstrate the feasibility"
-        - "Value of AI applications before full-scale implementation"
+        - Description: "Developing and validating innovative solutions"
+        - Description: "Demonstrate the feasibility"
+        - Description: "Value of AI applications before full-scale implementation"
       PricingRate: '50'
       PricingTitle: Proof of Concept
     - ButtonCaption: Get Earliest Access
       ButtonURL: https://newbound.ai/
       Features:
-        - "Designing, building, and deploying advanced AI systems and applications"
-        - "From concept to completion"
-        - "Meet the unique needs of our clients."
+        - Description: "Designing, building, and deploying advanced AI systems and applications"
+        - Description: "From concept to completion"
+        - Description: "Meet the unique needs of our clients."
       PricingRate: '60'
       PricingTitle: Development
   social:
